@@ -2,7 +2,7 @@
 cd /tmp/
 git clone https://github.com/PrintedScript/turtle-control
 cd turtle-control
-sudo apt install nodejs
+sudo snap install node
 npm install --global yarn
 yarn
 cd frontend
